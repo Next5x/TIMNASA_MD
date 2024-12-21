@@ -7,7 +7,7 @@ let antiDeleteActive = false; // Variable pour stocker l'état de la commande an
 zokou({
   nomCom: "anti-delete",
   categorie: "General",
-  reaction: "😏"
+  reaction: "💦"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, arg } = commandeOptions;
 
