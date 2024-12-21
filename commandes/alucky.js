@@ -8,48 +8,48 @@ const {
 } = require("../framework/zokou");
 zokou({
   'nomCom': "wagroup",
-  'reaction': '🤨',
+  'reaction': '🤯',
   'categorie': "Support-Owner",
   'nomFichier': __filename
 }, async (_0x3258e7, _0x4c4732, _0x13b70c) => {
   console.log("Commande saisie !!!s");
   await _0x4c4732.sendMessage(_0x3258e7, {
-    'text': "Hello 👋\n\nClick on the button below to join the OFFICIAL *LUCKY-MD* WhatsApp Group",
+    'text': "Hello 👋\n\nClick on the button below to join the OFFICIAL *TIMNASA MD* WhatsApp Group",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': "https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM",
+        'sourceUrl': "https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU",
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://i.imgur.com/XBaGxlx.jpeg",
         'title': "Join Our WhatsApp Group",
-        'body': "Click to join the official LUCKY-MD WhatsApp group!"
+        'body': "Click to join the official TIMNASA-MD WhatsApp group!"
       }
     }
   });
   console.log("Command executed: wagroup");
 });
 zokou({
-  'nomCom': 'wachannel',
+  'nomCom': 'channel',
   'reaction': '👀',
   'categorie': "Support-Owner",
   'nomFichier': __filename
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *LUCKY-MD* WhatsApp Channel",
+    'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *TIMNASA-MD* WhatsApp Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f',
+        'sourceUrl': 'https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://i.imgur.com/XBaGxlx.jpeg",
         'title': "Join Our WhatsApp Channel",
-        'body': "Click to join the official LUCKY-MD WhatsApp channel!"
+        'body': "Click to join the official TIMNASA-MD WhatsApp channel!"
       }
     }
   });
   console.log("Command executed: wachannel");
 });
 zokou({
-  'nomCom': 'waowner',
+  'nomCom': 'owner',
   'reaction': '👀',
   'categorie': "Support-Owner",
   'nomFichier': __filename
@@ -59,11 +59,11 @@ zokou({
     'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *LUCKY-MD* Owner",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https:// wa.me/255752593977',
+        'sourceUrl': 'https:// wa.me/255784766591',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://i.imgur.com/XBaGxlx.jpeg",
         'title': "Join Our Developer Place",
-        'body': "Click to join the official LUCKY-MD Owner Inbox!"
+        'body': "Click to join the official TIMNASA-MD Owner Inbox!"
       }
     }
   });
@@ -166,7 +166,7 @@ zokou({
       'externalAdReply': {
         'sourceUrl': 'https://t.me/+u3zlb5y6OfxhOTdk',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://i.imgur.com/XBaGxlx.jpeg",
         'title': "Join Telegram Group📄",
         'body': "Click to join the official LUCKY_MD Telegram Group!"
       }
