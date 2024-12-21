@@ -7,7 +7,7 @@ zokou(
   {
     nomCom: 'boom',
     categorie: 'Mods',
-    reaction: '😈',
+    reaction: '🎳',
   }, 
 
   
