@@ -4,7 +4,7 @@ const {
 zokou({
   'nomCom': "hack",
   'categorie': "Fun",
-  'reaction': '⚡'
+  'reaction': '⚒️'
 }, async (_0x31874c, _0x23f5d8, _0x2bf6f3) => {
   const {
     repondre: _0x988825,
@@ -12,7 +12,7 @@ zokou({
     prefixe: _0x1e90cb
   } = _0x2bf6f3;
   try {
-    const _0x3c1805 = ["```⚡ lucky_md Injecting malware⚡```", "```🔐 lucky into device \n 0%```", "```♻️ transfering photos \n █ 10%```", "```♻️ transfer successful \n █ █ 20%```", "```♻️ transfering videos \n █ █ █ 30%```","```♻️ transfer successful \n █ █ █ █ 40%```","```♻️ transfering audio \n █ █ █ █ █ 50%```","```♻️ transfer successful \n █ █ █ █ █ █ 60%```","```♻️ transfering hidden files \n █ █ █ █ █ █ █ 70%```","```♻️ transfer successful \n █ █ █ █ █ █ █ █ 80%```","```♻️ transfering whatsapp chat \n █ █ █ █ █ █ █ █ █ 90%```","```♻️ transfer successful \n █ █ █ █ █ █ █ █ █ █ 100%```","```📲 System hyjacking on process.. \n Conecting to Server```","```🔌 Divice successfully connected... \n Riciving data...```","```💡 Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```","```🔋 HACKING COMPLETED```","```📤 SENDING PHONE DOCUMENTS```"];
+    const _0x3c1805 = ["```💥 Timnasa_md Injecting malware⚡```", "```🔐 lucky into device \n 0%```", "```♻️ transfering photos \n █ 10%```", "```♻️ transfer successful \n █ █ 20%```", "```♻️ transfering videos \n █ █ █ 30%```","```♻️ transfer successful \n █ █ █ █ 40%```","```♻️ transfering audio \n █ █ █ █ █ 50%```","```♻️ transfer successful \n █ █ █ █ █ █ 60%```","```♻️ transfering hidden files \n █ █ █ █ █ █ █ 70%```","```♻️ transfer successful \n █ █ █ █ █ █ █ █ 80%```","```♻️ transfering whatsapp chat \n █ █ █ █ █ █ █ █ █ 90%```","```♻️ transfer successful \n █ █ █ █ █ █ █ █ █ █ 100%```","```📲 System hyjacking on process.. \n Conecting to Server```","```🔌 Divice successfully connected... \n Riciving data...```","```💡 Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```","```🔋 HACKING COMPLETED```","```📤 SENDING PHONE DOCUMENTS```"];
     for (const _0x4c7ce1 of _0x3c1805) {
       try {
         await _0x988825(_0x4c7ce1);
