@@ -1,25 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=LUCKY-+MD+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=TIMNASA-+MD+BOT" alt="Typing SVG" /></a>
   </p>
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=LUCKY+MD+TEAM+WISH+YOU;🎄MERRY+CHRISTMAS🎄;🎊AND+HAPPY+NEW+YEAR🎊;KEEP+USING+LUCKY+MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=TIMNASA+MD+TEAM+WISH+YOU;🎄MERRY+CHRISTMAS🎄;🎊AND+HAPPY+NEW+YEAR🎊;KEEP+USING+TIMNASA+MD" alt="Typing SVG" /></a>
   </p>
  
   
 <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="𝕃𝕌ℂ𝕂𝕐 𝕄𝔻" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
+ <img alt="TIMNASA MD" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
  
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
   <p align="center">
    <!-- Repo Views -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFred1e%2FLUCKY_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
+ <a href="https://github.com/Next5x?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?label=Followers&style=social"></a>
+<a href="https://github.com/Next5x/TIMNASA_MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/https://github.com/Next5x/TIMNASA_MD?&style=social"></a>
 <a href="https://github.com/Fred1e/lucky_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/lucky_md?style=social"></a>
 <a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/lucky_md?label=Watching&style=social"></a>
 <!-- Repo Size -->
