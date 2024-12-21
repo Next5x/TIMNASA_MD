@@ -5,7 +5,7 @@ const s = require(__dirname + "/../set");
 
 zokou(
     {
-        nomCom : 'alive',
+        nomCom : 'alive2',
         categorie : 'General'
         
     },async (dest,zk,commandeOptions) => {
@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LUCKY MD 2025*`
+ *TIMNASA MD 2025*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
