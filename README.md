@@ -8,7 +8,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="TIMNASA MD" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
+ <img alt="TIMNASA MD" height="300" src="https://i.imgur.com/XBaGxlx.jpeg">
  
   
 </h1> 
