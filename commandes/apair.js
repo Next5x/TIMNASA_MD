@@ -5,9 +5,9 @@ const {
   default: axios
 } = require("axios");
 zokou({
-  'nomCom': "pair",
+  'nomCom': "code1",
   'aliases': ["session", "pair", "paircode", "qrcode"],
-  'reaction': '♂️',
+  'reaction': '🤳',
   'categorie': "General"
 }, async (_0x2ce843, _0x1c44fd, _0x32de8a) => {
   const {
@@ -16,9 +16,9 @@ zokou({
   } = _0x32de8a;
   try {
     if (!_0x8621a4 || _0x8621a4.length === 0) {
-      return _0x2e61d5("Example Usage: .code 25575259xxxx.");
+      return _0x2e61d5("Example Usage: .code 255784766591xxxx.");
     }
-    await _0x2e61d5("*Wait lucky-md is generating your pair code ✅...*");
+    await _0x2e61d5("*Wait timnasa-md is generating your pair code 👽...*");
     const _0x386b0a = encodeURIComponent(_0x8621a4.join(" "));
     const _0x1ea92d = "https://fredietech.onrender.com/code?number=" + _0x386b0a;
     const _0xb59e41 = await axios.get(_0x1ea92d);
