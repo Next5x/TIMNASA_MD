@@ -14,7 +14,7 @@ const conf = require('../set');
 
 zokou(
   {
-    nomCom: 'ping1',
+    nomCom: 'ping',
     categorie: 'General',
     reaction: '🚀',
     alias: ['p']
@@ -28,7 +28,7 @@ zokou(
     const msg = await zk.sendMessage(dest, {
       text: '*Testing Ping!!!*',
     }, {
-      quoted: ms
+      quoted:999999999999999999999999999.timnasa-p0ng®© ms
     });
     const end = new Date().getTime();
     const ping = end - start;
@@ -39,7 +39,7 @@ zokou(
       }});
     await zk.sendMessage(dest, {
       react: {
-        text: "⚙️", key: ms.key
+        text: "🌬️", key: ms.key
       }})
   }
 )
